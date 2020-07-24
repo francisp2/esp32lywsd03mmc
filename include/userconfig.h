@@ -1,11 +1,11 @@
 //#include <myprivatedate.h> // might be deleted once your data is provided
 
 // next data must be subsituted by yours
-const char *ssid = "SNOW";
-const char *password = "0495370003";
-const char *mqtt_server = "10.0.0.63";
-const char *mqtt_user = "root";
-const char *mqtt_pw = "root";
+const char *ssid = "";
+const char *password = "";
+const char *mqtt_server = "";
+const char *mqtt_user = "";
+const char *mqtt_pw = "";
 
 IPAddress staticIP(10,0,0,188);
 IPAddress gateway(10,0,0,1);
